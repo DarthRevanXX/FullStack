@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin:484854qqww@cluster0-9bhmc.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://admin:484854qqww@cluster0-9bhmc.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "myassisbeatiful"
 }

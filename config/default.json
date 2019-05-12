@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://admin:484854qqww@cluster0-9bhmc.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "myassisbeatiful"
+  "jwtSecret": "myassisbeatiful",
+  "githubClientId": "cac7e44e5a766dbb8e4a",
+  "githubSecret": "627e08b307dea86b6e8d72f23c3b11f8905b5097"
 }
